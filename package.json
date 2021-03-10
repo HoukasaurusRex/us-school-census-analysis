@@ -1,7 +1,7 @@
 {
   "name": "us-school-census-analysis",
   "version": "1.0.0",
-  "description": "",
+  "description": "Analysis of US high school dropouts from 2009 to 2010 (data collected from NCES)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
